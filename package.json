@@ -1,0 +1,11 @@
+{
+  "name": "gridsome-plugin-tailwindcssv1",
+  "version": "0.0.1",
+  "description": "Add TailwindCSS v1 to Gridsome",
+  "main": "index.js",
+  "author": "Evan Sparkman",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.0.0-beta.4"
+  }
+}
