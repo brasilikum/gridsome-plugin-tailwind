@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Evan Sparkman",
   "license": "MIT",
+  "keywords": ["tailwindcss","gridsome-plugin"], 
   "dependencies": {
     "tailwindcss": "^1.0.0-beta.4"
   }
